@@ -1,4 +1,5 @@
 <?php
+// welcome
 /**
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
