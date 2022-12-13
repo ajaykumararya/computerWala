@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 // welcome
+=======
+//hii
+>>>>>>> aca72850d9c2273da4014dbd26728bb1e867d8f9
 /**
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
