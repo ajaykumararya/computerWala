@@ -14,9 +14,9 @@ define('ADMIN_DIR', 'admins');//not ready
 // DB
 define('DB_DBDRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'mysql');
-define('DB_PASSWORD', 'mysql');
-define('DB_DATABASE', 'ci3hmvs');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
+define('DB_DATABASE', 'school_project');
 define('DB_DBPREFIX', '');
 
 ?>

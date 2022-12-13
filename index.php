@@ -47,14 +47,14 @@ switch (ENVIRONMENT)
  * SYSTEM FOLDER NAME
  *---------------------------------------------------------------
  */
-	$system_path = 'system';
+	$system_path = 'codeigniter';
 
 /*
  *---------------------------------------------------------------
  * APPLICATION FOLDER NAME
  *---------------------------------------------------------------
  */
-	$application_folder = 'system/apps';
+	$application_folder = 'codeigniter/apps';
 
 /*
  *---------------------------------------------------------------
