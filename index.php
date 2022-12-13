@@ -1,5 +1,5 @@
 <?php
-//yes i am developer
+//yes i am main
 /**
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
